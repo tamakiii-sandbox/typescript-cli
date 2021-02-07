@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tamakiii-sandbox/typescript-cli/issues"
   },
-  "homepage": "https://github.com/tamakiii-sandbox/typescript-cli#readme"
+  "homepage": "https://github.com/tamakiii-sandbox/typescript-cli#readme",
+  "dependencies": {
+    "typescript": "^4.1.3"
+  }
 }
