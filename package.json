@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/tamakiii-sandbox/typescript-cli#readme",
   "dependencies": {
+    "@types/node": "^14.14.25",
     "typescript": "^4.1.3"
   }
 }
